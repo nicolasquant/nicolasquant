@@ -4,8 +4,11 @@
 
 ---
 
-##  Sobre mim
-Apaixonado por desafios! Possuo uma mentalidade altamente crítica e gosto de ambientes dinâmicos e desafiadores. Adoro programação e gostaria de aplicar
+## 💼 Sobre mim
+Apaixonado por desafios! Possuo uma mentalidade altamente crítica e gosto de ambientes dinâmicos e desafiadores.
+Profissional em formação com experiência em Python, machine learning e computação quântica.  
+Interessado em aplicar algoritmos avançados para resolver desafios do mercado financeiro.
+
 
 ##  Destaques
 - ⚡ Criei um código usando um algorítmo quântico chamado Variational Quantum Eigensolver (VQE) com objetivo de otimização de portfólios financeiros.
