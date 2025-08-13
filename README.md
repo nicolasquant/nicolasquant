@@ -2,11 +2,6 @@
 <h1 align="center">Oi, eu sou o Nicolas!</h1>
 <p align="center">Graduando em engenharia Física | Foco em Computação Quântica e AI</p>
 
-<!-- Seção sobre mim com foto (opcional) -->
-<p align="center">
-  <img src="URL_DA_SUA_FOTO" alt="Foto do Nicolas" width="150"/>
-</p>
-
 ---
 
 ##  Sobre mim
