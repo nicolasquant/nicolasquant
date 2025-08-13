@@ -18,7 +18,7 @@ Apaixonado por computação quântica, machine learning e automação com Python
 -  Automação de pipelines e coleta de dados financeiros.
 
 ##  Ferramentas & Tecnologias
-`Python` • `TensorFlow` • `Qiskit` • `PennyLane` • `Git` • `bash`
+`Python` • `Git` • `bash` • `TensorFlow` • `Qiskit` • `SQL`
 
 ##  Contato
 [![Email](https://img.shields.io/badge/Email-nicolasquant%40gmail.com-red)](mailto:nicolas.cenedesi@gmail.com)  
