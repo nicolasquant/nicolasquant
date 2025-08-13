@@ -5,15 +5,16 @@
 ---
 
 ## 💼 Sobre mim
-Apaixonado por desafios! Possuo uma mentalidade altamente crítica e gosto de ambientes dinâmicos e desafiadores.
+Apaixonado por cibersegurança, áreas diversas da computação e mercado financeiro! Possuo uma mentalidade altamente crítica e gosto de ambientes dinâmicos e desafiadores.
 possuo experiência em Python, machine learning, modelos quantitativos e computação quântica.  
-Interessado em aplicar algoritmos avançados para resolver desafios do mercado financeiro.
+Interessado em aplicar algoritmos avançados para resolver desafios de áreas diversas do mercado financeiro.
 
 
 ##  Destaques
-- ⚡ Criei um código usando um algorítmo quântico chamado Variational Quantum Eigensolver (VQE) com objetivo de otimização de portfólios financeiros.
-- 🤖 Desenvolvimento de códigos de inteligencia artificial para seleção binária (k-nn, kmenas).
+- ⚡ Criei um código usando um algorítmo quântico (VQE) aplicado na otimização de portfólio financeiros.
+- 🤖 Desenvolvimento de códigos de inteligencia artificial para seleção binária (k-nn, k-means).
 -  Automação de processos computacionais no linux, usando bash.
+-  Possuo domínio sobre modelos quantitativos do mercado finacneiro (Markowitz, CAPM)
 -  Criação de um código de tomada de decisão, a partir de sinais baseados em índices técnicos do mercado de criptomoedas.
 
 ##  Ferramentas & Tecnologias
