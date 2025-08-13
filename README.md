@@ -5,7 +5,7 @@
 ---
 
 ## 💼 Sobre mim
-Apaixonado por cibersegurança, com grande interesse em ingressar e me desenvolver em áreas diversas do mercado financeiro!
+Apaixonado por tecnologia, com grande interesse em ingressar e me desenvolver em áreas diversas do mercado financeiro!
 Possuo vasta experiência em Python, machine learning, modelos quantitativos de finanças e computação quântica.  
 Interessado em aplicar algoritmos avançados para resolver desafios de áreas diversas do mercado financeiro.
 
