@@ -1,18 +1,18 @@
 <!-- Header com nome e título -->
 <h1 align="center">Olá! Eu sou o Nicolas!👋</h1>
-<p align="center">Graduando em Engenharia Física - UFSCar com grande interesse em ingressar no mercado financeiro</p>
+<p align="center">Graduando em Engenharia Física - UFSCar com foco em cibersegurança e Mer/p>
 
 ---
 
 ## 💼 Sobre mim
-Apaixonado por cibersegurança, áreas diversas da computação e mercado financeiro! Possuo uma mentalidade altamente crítica e gosto de ambientes dinâmicos e desafiadores.
-Possuo vasta experiência em Python, machine learning, modelos quantitativos e computação quântica.  
+Apaixonado por cibersegurança, e possuo grande interesse em me desenvolver em áreas diversas do mercado financeiro! Possuo uma mentalidade altamente crítica e gosto de ambientes dinâmicos e desafiadores.
+Possuo vasta experiência em Python, machine learning, modelos quantitativos de finanças e computação quântica.  
 Interessado em aplicar algoritmos avançados para resolver desafios de áreas diversas do mercado financeiro.
 
 
 ##  Destaques
 - ⚡ Criei um código usando um algorítmo quântico (VQE) aplicado na otimização de portfólio financeiros.
-- 🤖 Desenvolvimento de códigos de inteligencia artificial para seleção binária (k-nn, k-means).
+- 🤖 Desenvolvi um código de inteligencia artificial para seleção binária (k-nn, k-means).
 -  Automação de processos computacionais no linux, usando bash.
 -  Possuo domínio sobre modelos quantitativos do mercado finacneiro (Markowitz, CAPM)
 -  Criação de um código de tomada de decisão, a partir de sinais baseados em índices técnicos do mercado de criptomoedas.
