@@ -6,7 +6,7 @@
 
 ## 💼 Sobre mim
 Apaixonado por cibersegurança, áreas diversas da computação e mercado financeiro! Possuo uma mentalidade altamente crítica e gosto de ambientes dinâmicos e desafiadores.
-possuo experiência em Python, machine learning, modelos quantitativos e computação quântica.  
+Possuo vasta experiência em Python, machine learning, modelos quantitativos e computação quântica.  
 Interessado em aplicar algoritmos avançados para resolver desafios de áreas diversas do mercado financeiro.
 
 
