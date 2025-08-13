@@ -1,6 +1,6 @@
 <!-- Header com nome e título -->
 <h1 align="center">Oi, eu sou o Nicolas!</h1>
-<p align="center">Graduando em Engenharia Física | Grande interesse em mercado financeiro</p>
+<p align="center">Graduando em Engenharia Física - UFSCar | Grande interesse em mercado financeiro</p>
 
 ---
 
