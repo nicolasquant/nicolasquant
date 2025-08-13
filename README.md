@@ -1,6 +1,6 @@
 <!-- Header com nome e título -->
 <h1 align="center">Oi, eu sou o Nicolas!</h1>
-<p align="center">Graduando em Ciência da Computação | Foco em Computação Quântica e AI</p>
+<p align="center">Graduando em engenharia Física | Foco em Computação Quântica e AI</p>
 
 <!-- Seção sobre mim com foto (opcional) -->
 <p align="center">
@@ -10,7 +10,7 @@
 ---
 
 ##  Sobre mim
-Apaixonado por computação quântica, machine learning e automação com Python. Atualmente explorando a interseção entre finanças e algoritmos quânticos.
+Apaixonado por computação quântica, machine learning e automação com Python. Atualmente explorando áreas do mercado financeiro.
 
 ##  Destaques
 - ⚡ Trabalho com Variational Quantum Eigensolver (VQE) aplicado à B3.
@@ -18,7 +18,7 @@ Apaixonado por computação quântica, machine learning e automação com Python
 -  Automação de pipelines e coleta de dados financeiros.
 
 ##  Ferramentas & Tecnologias
-`Python` • `TensorFlow` • `Qiskit` • `PennyLane` • `Git` • `Docker`
+`Python` • `TensorFlow` • `Qiskit` • `PennyLane` • `Git` • `bash`
 
 ##  Contato
 [![Email](https://img.shields.io/badge/Email-nicolasquant%40gmail.com-red)](mailto:nicolasquant@gmail.com)  
