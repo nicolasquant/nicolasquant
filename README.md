@@ -11,8 +11,8 @@ Interessado em aplicar algoritmos avançados para resolver desafios de áreas di
 
 
 ##  Destaques
-- ⚡ (Iniciação científica) - Criei um código usando um algorítmo quântico (VQE) aplicado na otimização de portfólio financeiros.
-- 🤖 Desenvolvi um código de inteligencia artificial para seleção binária (k-nn, k-means).
+-  (Iniciação científica) - Criei um código usando um algorítmo quântico (VQE) aplicado na otimização de portfólio financeiros.
+-  Desenvolvi um código de inteligencia artificial para seleção binária (k-nn, k-means).
 -  Automação de processos computacionais no linux, usando bash.
 -  Possuo domínio sobre modelos quantitativos do mercado finacneiro (Markowitz, CAPM)
 -  Criação de um código de tomada de decisão, a partir de sinais baseados em índices técnicos do mercado de criptomoedas.
