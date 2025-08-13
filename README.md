@@ -1,16 +1,38 @@
-## Hi there 👋
+<!-- Header com nome e título -->
+<h1 align="center">Oi, eu sou o Nicolas!</h1>
+<p align="center">Graduando em Ciência da Computação | Foco em Computação Quântica e AI</p>
 
-<!--
-**nicolasquant/nicolasquant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Seção sobre mim com foto (opcional) -->
+<p align="center">
+  <img src="URL_DA_SUA_FOTO" alt="Foto do Nicolas" width="150"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Sobre mim
+Apaixonado por computação quântica, machine learning e automação com Python. Atualmente explorando a interseção entre finanças e algoritmos quânticos.
+
+##  Destaques
+- ⚡ Trabalho com Variational Quantum Eigensolver (VQE) aplicado à B3.
+- 🤖 Desenvolvimento de chatbots com NLP.
+-  Automação de pipelines e coleta de dados financeiros.
+
+##  Ferramentas & Tecnologias
+`Python` • `TensorFlow` • `Qiskit` • `PennyLane` • `Git` • `Docker`
+
+##  Contato
+[![Email](https://img.shields.io/badge/Email-nicolasquant%40gmail.com-red)](mailto:nicolasquant@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NicolasQuant-blue?logo=linkedin)](https://linkedin.com/in/seuperfil)
+
+---
+
+##  Projetos em destaque
+| Nome do Projeto | Descrição curta | Link |
+|-----------------|------------------|------|
+| Otimização Quântica | VQE aplicado à seleção de portfólio | [GitHub](https://github.com/...) |
+| Chatbot NLP | Bot para análise de seguros com Flask e ML | [GitHub](https://github.com/...) |
+
+---
+
+##  Curiosidades (Fun Fact)
+🏍️ Fora do código, sou piloto amador de **motocross** — desafios também me conquistam fora da tela!
