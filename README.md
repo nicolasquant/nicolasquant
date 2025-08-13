@@ -6,7 +6,7 @@
 
 ## 💼 Sobre mim
 Apaixonado por desafios! Possuo uma mentalidade altamente crítica e gosto de ambientes dinâmicos e desafiadores.
-Profissional em formação com experiência em Python, machine learning e computação quântica.  
+possuo experiência em Python, machine learning, modelos quantitativos e computação quântica.  
 Interessado em aplicar algoritmos avançados para resolver desafios do mercado financeiro.
 
 
