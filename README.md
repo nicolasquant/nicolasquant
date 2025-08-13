@@ -21,8 +21,8 @@ Apaixonado por computação quântica, machine learning e automação com Python
 `Python` • `TensorFlow` • `Qiskit` • `PennyLane` • `Git` • `bash`
 
 ##  Contato
-[![Email](https://img.shields.io/badge/Email-nicolasquant%40gmail.com-red)](mailto:nicolasquant@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NicolasQuant-blue?logo=linkedin)](https://linkedin.com/in/seuperfil)
+[![Email](https://img.shields.io/badge/Email-nicolasquant%40gmail.com-red)](mailto:nicolas.cenedesi@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NicolasQuant-blue?logo=linkedin)](www.linkedin.com/in/nicolas-cenedesi-silveira)
 
 ---
 
