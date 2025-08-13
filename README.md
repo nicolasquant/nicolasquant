@@ -33,8 +33,8 @@ Interessado em aplicar algoritmos avançados para resolver desafios do mercado f
 
 
 ##  Contato
-[![Email](https://img.shields.io/badge/Email-nicolasquant%40gmail.com-red)](mailto:nicolas.cenedesi@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NicolasQuant-blue?logo=linkedin)](www.linkedin.com/in/nicolas-cenedesi-silveira)
+[![Email](https://img.shields.io/badge/Email-nicolas.cenedesi%40gmail.com-red)](mailto:nicolas.cenedesi@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas--Cenedesi--Silveira-blue?logo=linkedin)](https://www.linkedin.com/in/nicolas-cenedesi-silveira)
 
 ---
 
