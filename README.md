@@ -1,16 +1,17 @@
 <!-- Header com nome e título -->
 <h1 align="center">Oi, eu sou o Nicolas!</h1>
-<p align="center">Graduando em engenharia Física | Foco em Computação Quântica e AI</p>
+<p align="center">Graduando em Engenharia Física | Grande interesse em mercado financeiro</p>
 
 ---
 
 ##  Sobre mim
-Apaixonado por computação quântica, machine learning e automação com Python. Atualmente explorando áreas do mercado financeiro.
+Apaixonado por desafios! Possuo uma mentalidade altamente crítica e gosto de ambientes dinâmicos e desafiadores. Adoro programação e gostaria de aplicar
 
 ##  Destaques
-- ⚡ Trabalho com Variational Quantum Eigensolver (VQE) aplicado à B3.
-- 🤖 Desenvolvimento de chatbots com NLP.
--  Automação de pipelines e coleta de dados financeiros.
+- ⚡ Criei um código usando um algorítmo quântico chamado Variational Quantum Eigensolver (VQE) com objetivo de otimização de portfólios financeiros.
+- 🤖 Desenvolvimento de códigos de inteligencia artificial para seleção binária (k-nn, kmenas).
+-  Automação de processos computacionais no linux, usando bash.
+-  Criação de um código de tomada de decisão, a partir de sinais baseados em índices técnicos do mercado de criptomoedas.
 
 ##  Ferramentas & Tecnologias
 `Python` • `Git` • `bash` • `TensorFlow` • `Qiskit` • `SQL`
@@ -24,10 +25,10 @@ Apaixonado por computação quântica, machine learning e automação com Python
 ##  Projetos em destaque
 | Nome do Projeto | Descrição curta | Link |
 |-----------------|------------------|------|
-| Otimização Quântica | VQE aplicado à seleção de portfólio | [GitHub](https://github.com/...) |
-| Chatbot NLP | Bot para análise de seguros com Flask e ML | [GitHub](https://github.com/...) |
+| Otimização Quântica | VQE aplicado à otimização de portfólio | [GitHub](https://github.com/...) |
+| IA | Código de seleção binária | [GitHub](https://github.com/...) |
 
 ---
 
 ##  Curiosidades (Fun Fact)
-🏍️ Fora do código, sou piloto amador de **motocross** — desafios também me conquistam fora da tela!
+Fora do código, sou piloto amador de **motocross** — velocidade e precisão não ficam apenas nos códigos! 🏍 
