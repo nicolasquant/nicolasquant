@@ -21,7 +21,7 @@ Interessado em aplicar algoritmos avançados para resolver desafios do mercado f
 
 <div> 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nicolasquant&show_icons=true&theme=radical"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasquant&layout=compact&langs_count=16&theme=radical"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasquant&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 
