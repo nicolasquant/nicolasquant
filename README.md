@@ -41,3 +41,5 @@ Interessado em aplicar algoritmos avançados para resolver desafios do mercado f
 
 ##  Curiosidades (Fun Fact)
 Fora do código, sou piloto amador de **motocross** — velocidade e precisão não ficam apenas nos códigos! 🏍 
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
